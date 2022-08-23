@@ -4,3 +4,4 @@ git commit -m "comment" - commit = запись
 git log / git log --oneline 
 git push [rep_link] [branch-name]
 
+git push origin master
